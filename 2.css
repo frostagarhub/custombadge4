@@ -1,14 +1,14 @@
 #user-rollover.id-25259357 .badge-box > i.bdg
 {
     border-radius:       6px;
-    background-image:    url("https://rcs.radiant.dj/img/plugdj/badges/bdg-nycb-e01.gif");
+    background-image:    url("https://rcs.radiant.dj/img/plugdj/badges/bdg-beachb-e01.gif");
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center center;
 }
 #chat-messages .fromID-25259357 .badge-box i,
 #chat-messages .id-25259357 .badge-box i {
-    background-image: url(https://rcs.radiant.dj/img/plugdj/badges/bdg-nycb-e01.gif);
+    background-image: url(https://rcs.radiant.dj/img/plugdj/badges/bdg-beachb-e01.gif);
     background-size: cover;
     width: 30px;
     height: 30px;
@@ -82,14 +82,14 @@
 #user-rollover.id-17856644 .badge-box > i.bdg
 {
     border-radius:       6px;
-    background-image:    url("https://rcs.radiant.dj/img/plugdj/badges/bdg-nycb-e02.gif");
+    background-image:    url(""https://rcs.radiant.dj/img/plugdj/badges/bdg-nycb-e01.gif);
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center center;
 }
 #chat-messages .fromID-17856644 .badge-box i,
 #chat-messages .id-17856644 .badge-box i {
-    background-image: url(https://rcs.radiant.dj/img/plugdj/badges/bdg-nycb-e02.gif);
+    background-image: url(https://rcs.radiant.dj/img/plugdj/badges/bdg-nycb-e01.gif);
     background-size: cover;
     width: 30px;
     height: 30px;
