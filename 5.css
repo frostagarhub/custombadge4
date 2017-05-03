@@ -1,4 +1,4 @@
-#user-rollover.id-25259357 .badge-box > i.bdg
+#user-rollover.id-25556628 .badge-box > i.bdg
 {
     border-radius:       6px;
     background-image:    url("https://rcs.radiant.dj/img/plugdj/badges/bdg-beachb-e01.gif");
@@ -6,8 +6,8 @@
     background-repeat:   no-repeat;
     background-position: center center;
 }
-#chat-messages .fromID-25259357 .badge-box i,
-#chat-messages .id-25259357 .badge-box i {
+#chat-messages .fromID-25556628 .badge-box i,
+#chat-messages .id-25556628 .badge-box i {
     background-image: url(https://rcs.radiant.dj/img/plugdj/badges/bdg-beachb-e01.gif);
     background-size: cover;
     width: 30px;
@@ -18,8 +18,8 @@
     border-radius: 0;
 }
 
-#user-rollover.id-25259357 .username:hover,
-#chat [data-cid^="25259357-"] span.un.clickable:hover {
+#user-rollover.id-25556628 .username:hover,
+#chat [data-cid^="25556628-"] span.un.clickable:hover {
 animation:rainbow 10s infinite;
 }
 @keyframes rainbow {
