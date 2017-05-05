@@ -17,3 +17,16 @@
     border: none;
     border-radius: 0;
 }
+/* KIA FROSTT */
+#chat [data-cid^="25556628-"] span.un.clickable {
+    color: rgba(190, 145, 19, 1) !important;}
+#chat [data-cid^="25556628-"].emote {
+    background: rgba(196, 152, 64, 0.2) !important;
+    border-left: rgb(197, 152, 64) 3px solid !important; }
+#chat [data-cid^="25556628-"].emote .timestamp {
+    color: #A993C7 !important;}
+#chat [data-cid^="25556628-"].emote .text {
+    color: #f7f7f7 !important;}
+#chat [data-cid^="25556628-"] .icon,
+#chat .id-5394376 .icon {
+    display:none !important;}
