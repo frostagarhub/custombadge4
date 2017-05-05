@@ -1,17 +1,26 @@
 #user-rollover.id-25556628 .badge-box > i.bdg
 {
     border-radius:       6px;
-    background-image:    url("i.imgur.com/NfbIEXc.gif");
+    background-image:    url("https://rcs.radiant.dj/img/plugdj/badges/bdg-beachb-e02.gif");
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center center;
 }
 #chat-messages .fromID-25556628 .badge-box i,
 #chat-messages .id-25556628 .badge-box i {
-    background-image: url("i.imgur.com/NfbIEXc.gif");
+    background-image: url("https://rcs.radiant.dj/img/plugdj/badges/bdg-beachb-e02.gif");
     background-size: cover;
     width: 30px;
     height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
+"images": {
+    "host": "https://lh3.googleusercontent.com/D3fg9dU3c8ijtA_aYneA1tASonWrdnY2FfGTsuGbSCLoagO7UewVn0Nr7RgrHQaSVQX4K8I=s85";
+    width: 10px;
+    height: 10px;
     top: 0;
     left: 0;
     border: none;
