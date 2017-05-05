@@ -1,0 +1,19 @@
+#user-rollover.id-25556628 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("i.imgur.com/NfbIEXc.gif");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+#chat-messages .fromID-25556628 .badge-box i,
+#chat-messages .id-25556628 .badge-box i {
+    background-image: url("i.imgur.com/NfbIEXc.gif");
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
